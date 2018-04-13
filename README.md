@@ -9,11 +9,7 @@ After you open this lesson in the IDE, double-click on `index.js`. You'll see so
 ```javascript
 var name = "Joe"
 var height = "74"
-if (name === "susan"){
-  console.log("the name is currect")
-} else {
-  console.log("expected the name to be susan")
-}
+
 
 // Don't worry about this
 module.exports = { name, height
