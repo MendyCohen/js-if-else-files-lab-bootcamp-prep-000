@@ -5,7 +5,7 @@ if (name === "susan") {
 } else {
   console.log("thought the nasme was susan")
 }
-
+var name = "susan"
 // Don't worry about this
 module.exports = { name, height
 }
